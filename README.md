@@ -55,10 +55,14 @@ com.example.android.androidtemplate.SlidingTabLayout
 
 To
 com.example.android.packagename.SlidingTabLayout
-This is only needed if you decide to add it to an already existing project
+This is only needed if you decide to add it to an already existing project.
 
 
 ##How to Use
-```xm
-
+```git
+  $ git clone https://github.com/JonathanMoreno14/AndroidStarterTemplate.git
+   
 ```
+
+The Sliding Tab Layout was inspired and part of a tutorial segment from  [Android For Devs] (http://www.android4devs.com/2015/01/how-to-make-material-design-sliding-tabs.html) .
+
