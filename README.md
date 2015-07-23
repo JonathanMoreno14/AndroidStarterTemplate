@@ -57,3 +57,8 @@ To
 com.example.android.packagename.SlidingTabLayout
 This is only needed if you decide to add it to an already existing project
 
+
+##How to Use
+```xm
+
+```
