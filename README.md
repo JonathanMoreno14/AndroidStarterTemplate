@@ -6,3 +6,6 @@ This repository contains an Android Template app. The app contist of a User Inte
 Inline-style: 
 ![device-2015-07-23-121529](https://cloud.githubusercontent.com/assets/11635523/8863558/a63f0b30-314e-11e5-90e8-87017b6d402f.png)
 ![device-2015-07-23-123514](https://cloud.githubusercontent.com/assets/11635523/8863574/c4aae7f6-314e-11e5-8b90-ef2466fc01e8.png)
+
+Inline-style: 
+![device-2015-07-23-122052](https://cloud.githubusercontent.com/assets/11635523/8863629/3b037c92-314f-11e5-9c34-e256ef25f8e5.png)
