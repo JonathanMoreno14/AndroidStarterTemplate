@@ -26,7 +26,7 @@ Inline-style:
             Tab1 tab1 = new Tab1();
             return tab1;
         }
-        else if(position ==1){          // As we are having 2 tabs if the position is now 0 it must be 1 so we are returning second tab
+        else if(position ==1){ // As we are having 2 tabs if the position is now 0 it must be 1 so we are returning second tab
             Tab2 tab2 = new Tab2();
             return tab2;
         }
@@ -37,7 +37,7 @@ Inline-style:
     }
 ```
 
-You will need to create a new activity exmaple Tab4 the conditional statement will need to be modified to fit with the new set of Tab(s). A you can modify this is by setting up a swtich statement for the conditionals. 
+You will need to create a new activity, for example Tab4 the conditional statement will need to be modified to fit with the new set of Tab(s). You can modify this is by setting up a swtich statement for the conditionals. 
 
 
 ##If you decide to use it 
@@ -63,6 +63,7 @@ This is only needed if you decide to add it to an already existing project.
   $ git clone https://github.com/JonathanMoreno14/AndroidStarterTemplate.git
    
 ```
+
 
 The Sliding Tab Layout was inspired and part of a tutorial segment from  [Android For Devs] (http://www.android4devs.com/2015/01/how-to-make-material-design-sliding-tabs.html) .
 
