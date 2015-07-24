@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:pivotX="50%" android:pivotY="50%" android:fromDegrees="0"
+    android:toDegrees="360">
+    <shape android:shape="ring" android:innerRadiusRatio="3"
+        android:thicknessRatio="8" android:useLevel="false">
+
+        <size android:width="76dip" android:height="76dip" />
+        <gradient android:type="sweep" android:useLevel="false"
+            android:startColor="@android:color/transparent"
+            android:endColor="#333333"
+            android:angle="0"
+            />
+    </shape>
+</rotate>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<rotate xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--android:fromDegrees="0"-->
+    <!--android:pivotX="50%"-->
+    <!--android:pivotY="50%"-->
+    <!--android:toDegrees="360" >-->
+
+    <!--<shape-->
+        <!--android:innerRadiusRatio="7"-->
+        <!--android:shape="ring"-->
+        <!--android:thicknessRatio="8"-->
+        <!--android:useLevel="false" >-->
+        <!--<size-->
+            <!--android:height="76dip"-->
+            <!--android:width="76dip" />-->
+
+        <!--<gradient-->
+            <!--android:angle="0"-->
+            <!--android:endColor="#1abc9c"-->
+            <!--android:startColor="@android:color/transparent"-->
+            <!--android:type="sweep"-->
+            <!--android:useLevel="false" />-->
+    <!--</shape>-->
+ <!--</rotate>-->
