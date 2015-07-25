@@ -17,6 +17,11 @@ Inline-style:
 ##If you wish to add more tabs
 
 ```java 
+   CharSequence Titles[]={"Tab1","Tab2", "Tab3"};
+    int Numboftabs =3;
+```
+
+```java 
  //This method return the fragment for the every position in the View Pager
     @Override
     public Fragment getItem(int position) {
@@ -37,7 +42,8 @@ Inline-style:
     }
 ```
 
-You will need to create a new activity, for example Tab4 the conditional statement will need to be modified to fit with the new set of Tab(s). You can modify this is by setting up a swtich statement for the conditionals. 
+You will need to create a new activity, for example Tab4. The **CharSequence** strings will need to be modified "Tab4" You will need to modify **int Numboftabs**  = "4" this is given for the specific number of tab activities that are in use for the Sliding Tab Layout. 
+The conditional statement will also need to be modified to fit with the new set of Tab(s). You can modify this is by setting up a swtich statement for the conditionals or any other type of method. 
 
 
 ##If you decide to use it 
