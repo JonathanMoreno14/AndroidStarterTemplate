@@ -57,15 +57,15 @@ Make sure to add your package name to the Sliding Tab Layout in the activity_mai
         android:background="@color/ColorPrimary"/>
 ```
 
-com.example.android.androidtemplate.SlidingTabLayout
-
+From **com.example.android.androidtemplate.SlidingTabLayout**
 To
-com.example.android.packagename.SlidingTabLayout
+**com.example.android.packagename.SlidingTabLayout**
 This is only needed if you decide to add it to an already existing project.
 
 
 ##How to Use
 ```git
+
   $ git clone https://github.com/JonathanMoreno14/AndroidStarterTemplate.git
    
 ```
