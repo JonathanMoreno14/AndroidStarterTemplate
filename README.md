@@ -45,6 +45,30 @@ Inline-style:
 You will need to create a new activity, for example Tab4. The **CharSequence** strings will need to be modified "Tab4" You will need to modify **int Numboftabs**  = "4" this is given for the specific number of tab activities that are in use for the Sliding Tab Layout. 
 The conditional statement will also need to be modified to fit with the new set of Tab(s). You can modify this is by setting up a swtich statement for the conditionals or any other type of method. 
 
+###Switch statement method
+This is the conditional statement that can be used for adding more that 3 tabs. 
+```java 
+ //This method return the fragment for the every position in the View Pager
+    @Override
+    public Fragment getItem(int position) {
+        switch (position) {
+            case 0:
+                return new Tab1();
+            case 1:
+                return new Tab2();
+            case 2:
+                return new Tab3();
+            case 3:
+                return new Tab4();
+            case 4:
+                return new Tab5();
+        }
+
+        return null;
+    }
+```
+
+
 
 ##If you decide to use it 
 Make sure to add your package name to the Sliding Tab Layout in the activity_main.xml file
